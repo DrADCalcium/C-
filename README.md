@@ -25,19 +25,8 @@
 
 ## 编译
 
-```mermaid
-graph LR
-A[高级语言源程序  .c] -->B(编译)
-    B --> C[机器语言目标程序  .obj]
-    C --> D[可执行程序  .exe]
-    D --> E(运行)
-    E --> F[运行结果]
-    G[编译程序] --> B
-    H[连接程序] --> E
-    I[编译过程]
-    
+![编译原理](https://github.com/DrADCalcium/C-/blob/main/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86.png?raw=true "编译原理")
 
-```
 
 ***
 
@@ -116,4 +105,3 @@ __注意分行！便于理解__
 ***
 ![好习惯](https://github.com/DrADCalcium/C-/blob/main/good%20habits.png?raw=true "好习惯")
 ![结论1](https://github.com/DrADCalcium/C-/blob/main/conclusion%201.png?raw=true "结论1")
-
