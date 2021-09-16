@@ -37,7 +37,7 @@ __第一个程序Hello World__
 
 int main()
 {
-    printf("Hello World!");
+    printf("Hello World!\n");
     return 0;
 }
 ```
