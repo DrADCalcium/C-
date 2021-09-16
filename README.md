@@ -110,4 +110,5 @@ void main()//主函数
 __注意分行！便于理解__
 
 ***
-
+![好习惯](https://github.com/DrADCalcium/C-/blob/main/good%20habits.png?raw=true "好习惯")
+![结论1](https://github.com/DrADCalcium/C-/blob/main/conclusion%201.png?raw=true "结论1")
